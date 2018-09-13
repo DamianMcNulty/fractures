@@ -9,7 +9,7 @@
 	"description": "Atomic CSS toolkit.",
 	"main": "dist/fractures.css",
 	"scripts": {
-		"prepare": "mkdir -p dist && gulp build",
+		"prepare": "mkdir dist && gulp build",
 		"start": "gulp watch",
 		"build": "gulp build",
 		"watch": "gulp watch",
