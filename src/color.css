@@ -9,6 +9,7 @@
 .grey { color: var(--gray); }
 .dim { color: var(--dimgray); }
 .black { color: var(--black); }
+.blue { color: var(--blue); }
 
 .bg-white { background-color: var(--white); }
 .bg-smoke { background-color: var(--whitesmoke); }
