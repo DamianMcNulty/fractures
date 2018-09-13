@@ -15,10 +15,10 @@
 .regular { font-weight: var(--normal); }
 .bold { font-weight: var(--bold); }
 
-.center { text-align: center; }
+.text-center { text-align: center; }
 .justify { text-align: justify; }
-.left { text-align: left; }
-.right { text-align: right; }
+.text-left { text-align: left; }
+.text-right { text-align: right; }
 
 .line-through,
 .delete { text-decoration: line-through; }
