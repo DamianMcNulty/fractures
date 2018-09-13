@@ -1,10 +1,10 @@
 :root {
-	--box-1: 8px;
-	--box-2: 16px;
-	--box-3: 24px;
-	--box-4: 32px;
-	--box-5: 64px;
-	--box-6: 128px;
+	--box-1: 1rem;
+	--box-2: 2rem;
+	--box-3: 3rem;
+	--box-4: 4rem;
+	--box-5: 5rem;
+	--box-6: 6rem;
 
 	--white: white;
 	--whitesmoke: whitesmoke;
@@ -14,7 +14,11 @@
 	--gray: gray;
 	--dimgray: dimgray;
 	--black: black;
+	--blue: blue;
 
 	--normal: normal;
 	--bold: bold;
+
+	--font-size: 65.5%;
+	--font-family: 'Work Sans', sans-serif;	
 }
