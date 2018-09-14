@@ -15,6 +15,7 @@
 .mb-4 { margin-bottom: var(--box-4); }
 .mb-5 { margin-bottom: var(--box-5); }
 .mb-6 { margin-bottom: var(--box-6); }
+.mb-7 { margin-bottom: var(--box-7); }
 
 .ml-0 { margin-left: 0; }
 .ml-1 { margin-left: var(--box-1); }
